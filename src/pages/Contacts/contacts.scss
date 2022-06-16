@@ -1,0 +1,41 @@
+.inner-contacts {
+  width: 60%;
+  margin: auto;
+}
+.name-email {
+  input {
+    width: 50%;
+    margin: 5px auto;
+    height: 30px;
+  }
+}
+.subject {
+  input {
+    width: 100%;
+    margin: 5px auto;
+    height: 30px;
+  }
+}
+
+.textarea {
+  textarea {
+    width: 100%;
+    height: 200px;
+  }
+}
+
+form button {
+  background-color: black;
+  color: white;
+  height: 30px;
+  width: 100%;
+  border-radius: 10px;
+  font-size: 20px;
+  &:hover {
+    background-color: white;
+    color: black;
+  }
+}
+form p {
+  font-size: 20px;
+}

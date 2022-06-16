@@ -23,3 +23,16 @@
     border-radius: 40%;
   }
 }
+
+@media screen and (max-width: 748px) {
+  .about_inner_container {
+    grid-template-columns: 1fr;
+    height: 100vh;
+    .about_leftside {
+      text-align: center;
+    }
+  }
+  body {
+    background-color: black;
+  }
+}

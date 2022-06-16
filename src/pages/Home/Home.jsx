@@ -21,16 +21,32 @@ function Home() {
           </h2>
           <Flip left>
             <div className="icons">
-              <a href="/">
+              <a
+                href="mailto:zhoroevsultonbek@gmail.com"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <i class="fa-solid fa-envelope"></i>
               </a>
-              <a href="/">
+              <a
+                href="https://www.facebook.com/sultanbek.joroyev/"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <i class="fa-brands fa-facebook"></i>
               </a>
-              <a href="/">
+              <a
+                href="https://www.linkedin.com/in/sultonbek-zhorahan-b31229226?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPiBuiqM2TNOSGAeGUDsKwQ%3D%3D"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <i class="fab fa-linkedin-in"></i>
               </a>
-              <a href="/">
+              <a
+                href="https://github.com/sultonbekzhoroev"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <i class="fa-brands fa-github"></i>
               </a>
 
